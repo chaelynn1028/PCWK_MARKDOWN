@@ -1,7 +1,13 @@
 # PCWK_MARKDOWN
 
+### 10.표
+|번호|아이디|이름|레벨|이메일|등록일|   
+|:-------|:-------|:-------|:-------|:-------|:-------|  
+|1       |james   |이상무  |1     |james@naver.com|19:00|  
+|2       |james   |이상무  |1     |james@naver.com|19:00|  
+
 ### 9.이미지 넣기  
-![]()  
+![가을](https://github.com/chaelynn1028/PCWK_MARKDOWN/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80.jfif "가을")   
 
 ### 8.강조  
 **Spring**을 만끽 하세요.  
