@@ -8,10 +8,24 @@
 *  자동검색 기능을 활용한 영화 정보 검색 시스템 구현
 *  Spring MVC아키텍처를 기반으로 Dispatcher-Servlet 원리 이해
 
-## 2. 프로젝트에 사용한 기술들
-![기술들](https://user-images.githubusercontent.com/89445560/132996914-e25e5213-3198-49d9-8db7-07a6a028f959.JPG)
+## 2. Team Norajo 소개
+### 2.1 조원 / 조장
+![팀 소개](https://user-images.githubusercontent.com/89445560/132997494-912f5b12-c1d1-4e9b-8c13-6a17a96f76c1.JPG)
 
-## 3. Team Norajo 소개
+### 2.2 담당업무
+|이름|담당업무|
+|:-------|:-------|
+|고현우|james   |  
+|김보선|james   |
+|김보성|james   |
+|김진서|james   |
+|유채린|회원관리(로그인, 로그아웃, 회원가입, 아이디/비밀번호 찾기) 화면관리 및 기능 연결|
+
+## 3. 프로젝트 기획
+### 3.1 프로젝트명
+
+
+
 
 
 
